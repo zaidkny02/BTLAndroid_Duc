@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278529068552",
+    "firebase_url": "https://fir-test-1499e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-test-1499e",
+    "storage_bucket": "fir-test-1499e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278529068552:android:04fe34af49c744aad2cbbd",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278529068552-8r7k44b3p3488k08tqc3kg81ofrfd50b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugV1WNRAmvt4OZsQ9lArbpkcAX_uSPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278529068552-8r7k44b3p3488k08tqc3kg81ofrfd50b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
